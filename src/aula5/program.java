@@ -14,9 +14,6 @@ public class program {
 		
 		
 		
-		
-		
-		
 		c1.estadoAtual();
 	}
 
