@@ -1,3 +1,20 @@
+/*
+ * Exercício 2: Conversor de Unidades de Temperatura
+
+Crie um programa que permita ao usuário converter uma temperatura de graus Celsius para graus Fahrenheit ou vice-versa. O programa deve perguntar ao usuário qual tipo de conversão deseja realizar, solicitar a temperatura e, em seguida, mostrar o resultado. Use as fórmulas de conversão apropriadas.
+
+Exemplo de saída:
+
+Escolha o tipo de conversão:
+1. Celsius para Fahrenheit
+2. Fahrenheit para Celsius
+Opção: 1
+
+Digite a temperatura em graus Celsius: 25
+Resultado em graus Fahrenheit: 77.0
+
+ */
+
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

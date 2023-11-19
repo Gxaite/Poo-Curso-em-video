@@ -1,3 +1,38 @@
+/*
+ * Exercício 3: Lista de Tarefas
+
+Crie um programa que funcione como uma lista de tarefas. O programa deve permitir ao usuário adicionar tarefas, listar as tarefas existentes e marcar tarefas como concluídas. O usuário deve poder interagir com o programa através de comandos, como "adicionar", "listar" e "concluir". Certifique-se de fornecer feedback claro e uma interface amigável para o usuário.
+
+Exemplo de saída:
+
+Comandos disponíveis:
+- "adicionar" para adicionar uma nova tarefa
+- "listar" para listar as tarefas
+- "concluir" para marcar uma tarefa como concluída
+- "sair" para sair do programa
+
+Digite um comando: adicionar
+Digite a descrição da tarefa: Comprar leite
+
+Tarefa adicionada com sucesso!
+
+Digite um comando: listar
+Tarefas pendentes:
+1. Comprar leite
+
+Digite um comando: concluir
+Digite o número da tarefa a ser concluída: 1
+
+Tarefa "Comprar leite" marcada como concluída.
+
+Digite um comando: listar
+Tarefas pendentes:
+(Nenhuma tarefa pendente)
+
+Digite um comando: sair
+
+ */
+
 package exerciciosPOO;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
