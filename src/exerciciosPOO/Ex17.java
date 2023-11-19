@@ -1,3 +1,30 @@
+/*
+ * Exercício 16: Multiplicação de Matrizes
+
+Desenvolva um programa que realiza a multiplicação de duas matrizes. A primeira matriz deve ter o número de colunas igual ao número de linhas da segunda matriz. As matrizes devem ser fornecidas pelo usuário.
+
+Exemplo:
+
+Digite o número de linhas da primeira matriz: 2
+Digite o número de colunas da primeira matriz: 3
+
+Digite os elementos da primeira matriz:
+1 2 3
+4 5 6
+
+Digite o número de linhas da segunda matriz: 3
+Digite o número de colunas da segunda matriz: 2
+
+Digite os elementos da segunda matriz:
+7 8
+9 10
+11 12
+
+A multiplicação das matrizes é:
+58 64
+139 154
+
+ */
 package exerciciosPOO;
 import javax.swing.JOptionPane;
 

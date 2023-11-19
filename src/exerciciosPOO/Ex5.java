@@ -1,3 +1,8 @@
+/*
+ * Exercício 5: Conversor de Idade
+
+Peça ao usuário para inserir sua idade em anos. Em seguida, converta essa idade para meses, dias, horas e minutos. Mostre o resultado formatado de maneira clara. Considere um ano com 365 dias.
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

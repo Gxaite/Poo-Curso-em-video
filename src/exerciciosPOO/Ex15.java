@@ -1,3 +1,14 @@
+/*
+ * Exercício 14: Verificação de Palíndromos com Vetores
+
+Crie um programa que verifica se uma palavra fornecida pelo usuário é um palíndromo. Utilize um vetor para armazenar os caracteres da palavra. O programa deve considerar apenas as letras (ignorando espaços, pontuações, etc.) e realizar a verificação.
+
+Exemplo:
+
+Digite uma palavra: radar
+A palavra "radar" é um palíndromo.
+
+ */
 package exerciciosPOO;
 import javax.swing.JOptionPane;
 

@@ -1,5 +1,5 @@
 /*
- * Exercício 2: Conversor de Unidades de Temperatura
+ Exercício 2: Conversor de Unidades de Temperatura
 
 Crie um programa que permita ao usuário converter uma temperatura de graus Celsius para graus Fahrenheit ou vice-versa. O programa deve perguntar ao usuário qual tipo de conversão deseja realizar, solicitar a temperatura e, em seguida, mostrar o resultado. Use as fórmulas de conversão apropriadas.
 

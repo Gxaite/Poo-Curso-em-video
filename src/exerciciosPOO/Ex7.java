@@ -1,3 +1,11 @@
+/*
+ * Exercício 7: Verificação de Números Pares e Ímpares
+
+Crie um programa que solicita ao usuário para inserir um número inteiro. Em seguida, utilize uma estrutura if-else para verificar se o número é par ou ímpar. Imprima uma mensagem indicando o resultado.
+
+Digite um número: 7 O número 7 é ímpar.
+
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

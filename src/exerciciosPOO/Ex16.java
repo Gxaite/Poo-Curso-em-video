@@ -1,3 +1,26 @@
+/*
+ * Exercício 15: Soma de Matrizes
+
+Crie um programa que realiza a soma de duas matrizes. As matrizes devem ter o mesmo número de linhas e colunas e serem fornecidas pelo usuário. O programa deve calcular a soma elemento a elemento e exibir a matriz resultante.
+
+Exemplo:
+
+Digite o número de linhas: 2
+Digite o número de colunas: 3
+
+Digite os elementos da primeira matriz:
+1 2 3
+4 5 6
+
+Digite os elementos da segunda matriz:
+7 8 9
+10 11 12
+
+A soma das matrizes é:
+8 10 12
+14 16 18
+
+ */
 package exerciciosPOO;
 import javax.swing.JOptionPane;
 

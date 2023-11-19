@@ -1,3 +1,18 @@
+/*
+ * Exercício 10: Contagem Regressiva com while
+
+Crie um programa que use uma estrutura de repetição while para realizar uma contagem regressiva a partir de um número fornecido pelo usuário até 1. Imprima cada número durante a contagem.
+
+Exemplo:
+
+Digite um número inicial: 5
+5
+4
+3
+2
+1
+
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

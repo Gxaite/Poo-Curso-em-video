@@ -1,3 +1,9 @@
+/*
+ * Exercício 20: Modificação de Objetos através de Referências
+
+Crie uma classe ContaBancaria com o atributo saldo. Em seguida, crie um método na classe principal que aceita um objeto do tipo ContaBancaria como parâmetro e realiza uma operação de depósito nessa conta.
+ Demonstre a modificação do saldo no programa principal.
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

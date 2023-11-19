@@ -1,3 +1,23 @@
+/*
+ * Exercício 17: Transposição de Matriz
+
+Crie um programa que realiza a transposição de uma matriz. A matriz deve ser fornecida pelo usuário, e o programa deve exibir a matriz transposta.
+
+Exemplo:
+
+Digite o número de linhas: 3
+Digite o número de colunas: 2
+
+Digite os elementos da matriz:
+1 2
+3 4
+5 6
+
+A matriz transposta é:
+1 3 5
+2 4 6
+
+ */
 package exerciciosPOO;
 import javax.swing.JOptionPane;
 public class Ex18 {

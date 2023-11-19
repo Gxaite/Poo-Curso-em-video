@@ -1,5 +1,4 @@
-/*
- * Exercício 3: Lista de Tarefas
+/* Exercício 3: Lista de Tarefas
 
 Crie um programa que funcione como uma lista de tarefas. O programa deve permitir ao usuário adicionar tarefas, listar as tarefas existentes e marcar tarefas como concluídas. O usuário deve poder interagir com o programa através de comandos, como "adicionar", "listar" e "concluir". Certifique-se de fornecer feedback claro e uma interface amigável para o usuário.
 
@@ -30,7 +29,6 @@ Tarefas pendentes:
 (Nenhuma tarefa pendente)
 
 Digite um comando: sair
-
  */
 
 package exerciciosPOO;

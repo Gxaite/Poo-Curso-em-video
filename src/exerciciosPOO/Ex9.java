@@ -1,3 +1,29 @@
+/*
+ * Exercício 9: Classificação de Média Ponderada
+
+Solicite ao usuário para inserir as três notas e seus respectivos pesos. Utilize uma estrutura if-else para atribuir uma classificação com base na seguinte escala:
+
+Média ponderada de 90 a 100: A
+Média ponderada de 80 a 89: B
+Média ponderada de 70 a 79: C
+Média ponderada de 60 a 69: D
+Média ponderada abaixo de 60: F
+
+Imprima a classificação correspondente.
+Exemplo:
+
+Digite a nota 1: 85
+Digite o peso da nota 1: 0.3
+
+Digite a nota 2: 78
+Digite o peso da nota 2: 0.4
+
+Digite a nota 3: 92
+Digite o peso da nota 3: 0.3
+
+A média ponderada é 86.2, que corresponde à classificação B.
+
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

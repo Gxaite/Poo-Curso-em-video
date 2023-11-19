@@ -1,3 +1,22 @@
+/*
+ * Exercício 13: Produto Escalar
+
+Desenvolva um programa que calcula o produto escalar entre dois vetores de números reais. Os vetores devem ter o mesmo tamanho e serem inseridos pelo usuário. O produto escalar é obtido multiplicando elemento por elemento e somando os resultados.
+
+Exemplo:
+
+Digite o tamanho dos vetores: 3
+Digite os elementos do primeiro vetor:
+2.5
+3.0
+1.5
+Digite os elementos do segundo vetor:
+1.0
+2.0
+3.0
+O produto escalar dos vetores é: 14.5
+
+ */
 package exerciciosPOO;
 import javax.swing.JOptionPane;
 

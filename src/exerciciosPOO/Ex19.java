@@ -1,3 +1,9 @@
+/*
+ * Exercício 18: Troca de Valores entre Objetos
+
+Crie uma classe chamada Ponto com os atributos x e y. Em seguida, crie um método na classe principal que aceita dois objetos do tipo Ponto como parâmetros e troca seus valores.
+ Demonstre o funcionamento do método no programa principal.
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;

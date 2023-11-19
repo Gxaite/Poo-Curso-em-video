@@ -1,3 +1,9 @@
+/*
+ * Exercício 19: Cópia de Objetos com Referência
+
+Crie uma classe Aluno com os atributos nome e nota. Em seguida, crie um método na classe principal que aceita um objeto do tipo Aluno como parâmetro e cria uma cópia desse objeto.
+ Modifique a cópia e demonstre que a modificação não afeta o objeto original.
+ */
 package exerciciosPOO;
 
 import javax.swing.JOptionPane;
